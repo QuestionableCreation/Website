@@ -11,7 +11,7 @@ const colors = [
     "#25166c", 
     "#211456", 
     "#1c1241", 
-    "#170e2d", 
+    "#170e2d" , 
     "#10071a",
     "#000000"
 ];
@@ -51,3 +51,5 @@ function animateCircles() {
 }
 
 animateCircles();
+
+
